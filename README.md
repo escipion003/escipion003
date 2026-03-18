@@ -106,7 +106,7 @@ Video recording  +  Audio narration  +  Process manual (PDF)
 
 *Thesis project · Universidad de los Andes MAIA Program · 2026*
 
-[**→ View Architecture**](https://github.com/escipion003/YOUR_REPO_NAME)
+[**→ View Architecture**](https://github.com/escipion003/process-mining-pipeline)&nbsp;|&nbsp; [**→ Live Demo**](https://your-demo-url.streamlit.app)
 
 ---
 
